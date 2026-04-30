@@ -25,7 +25,7 @@ Para melhor organização e execução dos códigos, o projeto foi dividido em d
 ## 🎥 Demonstração em Vídeo
 No vídeo abaixo, demonstro o funcionamento do código, a estrutura dos datasets e os resultados finais de predição gerados pelas Inteligências Artificiais desenvolvidas.
 
-▶️ **[Clique aqui para assistir ao vídeo de demonstração no YouTube](COLE_O_LINK_DO_SEU_VIDEO_AQUI)**
+▶️ **[Clique aqui para assistir ao vídeo de demonstração no YouTube](https://www.youtube.com/watch?v=k13tQpIoOb4)**
 
 ---
 **GRUPO:** 
